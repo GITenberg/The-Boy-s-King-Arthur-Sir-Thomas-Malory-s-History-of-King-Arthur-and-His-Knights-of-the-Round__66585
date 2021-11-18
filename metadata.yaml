@@ -1,0 +1,46 @@
+_repo: The-Boy-s-King-Arthur-Sir-Thomas-Malory-s-History-of-King-Arthur-and-His-Knights-of-the-Round__66585
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Wyeth, N. C. (Newell Convers)
+    aliases:
+    - Wyeth, N.C.
+    - Wyeth, Newell Convers
+    birthdate: 1882
+    deathdate: 1945
+    gutenberg_agent_id: '32841'
+    url: http://www.gutenberg.org/2009/agents/32841
+    wikipedia: https://en.wikipedia.org/wiki/N._C._Wyeth
+creator:
+  author:
+    agent_name: Malory, Thomas, Sir
+    deathdate: 1471
+    gutenberg_agent_id: '573'
+    url: http://www.gutenberg.org/2009/agents/573
+    wikipedia: https://en.wikipedia.org/wiki/Thomas_Malory
+  editor:
+    agent_name: Lanier, Sidney
+    birthdate: 1842
+    deathdate: 1881
+    gutenberg_agent_id: '299'
+    url: http://www.gutenberg.org/2009/agents/299
+    wikipedia: https://en.wikipedia.org/wiki/Sidney_Lanier
+description: ''
+gutenberg_issued: '2021-10-21'
+identifiers:
+  gutenberg: '66585'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Folklore -- England'
+- !lcsh 'Arthur, King -- Legends'
+- !lcsh 'Arthurian romances -- Adaptations'
+- !lcc 'PZ'
+- !lcsh 'Knights and knighthood -- Folklore'
+- GITenberg
+title: 'The Boy''s King Arthur
+
+  Sir Thomas Malory''s History of King Arthur and His Knights of the Round Table'
+url: http://www.gutenberg.org/ebooks/66585
