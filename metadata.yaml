@@ -11,6 +11,9 @@ contributor:
     gutenberg_agent_id: '32841'
     url: http://www.gutenberg.org/2009/agents/32841
     wikipedia: https://en.wikipedia.org/wiki/N._C._Wyeth
+covers:
+- cover_type: archival
+  image_path: 66585-h/images/cover.jpg
 creator:
   author:
     agent_name: Malory, Thomas, Sir
@@ -26,6 +29,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/299
     wikipedia: https://en.wikipedia.org/wiki/Sidney_Lanier
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66585#The-Boy-s-King-Arthur-Sir-Thomas-Malory-s-History-of-King-Arthur-and-His-Knights-of-the-Round_
 gutenberg_issued: '2021-10-21'
 identifiers:
   gutenberg: '66585'
